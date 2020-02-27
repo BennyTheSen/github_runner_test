@@ -16,5 +16,5 @@ jobs:
     name: pylint
     steps:
       - name: install_dependencies
-      run: |
-        pwd
+        run: |
+          pwd
